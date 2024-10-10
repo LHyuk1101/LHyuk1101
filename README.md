@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lhyuk1101&label=Profile%20views&color=0e75b6&style=flat" alt="lhyuk1101" /> </p>
 
-- 🌱 I’m currently learning **Java & spring boot And I'm interested in Python and AOS**
+- 🌱 I’m currently learning **Java & spring boot And I'm interested in Python, Kotlin and AOS**
 
 - 📝 I occasionally write blogs :  [https://lhdev1101.tistory.com/](https://lhdev1101.tistory.com/)
 
